@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://primainteriors.netlify.app/">
+    <a href="https://primainteriors.netlify.app/">
       Demo
     </a>
     <span> | </span>
