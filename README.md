@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404-Error Challenge (DevChallenges.io)</h1>
+<h1 align="center">Interior Consultant Challenge (DevChallenges.io)</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Lipkis/404-error-challenge/">
+    <a href="https://github.com/Lipkis/Interior-Consultant-LP/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -36,13 +36,13 @@
 
 ## Overview
 
-![Mobile](https://github.com/Lipkis/404-error-challenge/blob/main/images/screenshots/404mobile.png)
-![Desktop](https://github.com/Lipkis/404-error-challenge/blob/main/images/screenshots/404desktop.jpg)
+![Mobile](https://github.com/Lipkis/Interior-Consultant-LP/blob/main/images/screenshots/Desktop%20-%20Prima%20Interiors.png)
+![Desktop](https://github.com/Lipkis/Interior-Consultant-LP/blob/main/images/screenshots/Mobile%20-%20Prima%20Interiors.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo? 
-   [See my Demo](https://github.com/Lipkis/404-error-challenge/)
+   [See my Demo](https://github.com/Lipkis/Interior-Consultant-LP/)
 - What was your experience?
    This challenge has been a real eye opener for me, I've seen my limitations and know what I need to improve on.
 - What have you learned/improved?
@@ -61,7 +61,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
